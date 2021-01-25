@@ -42,6 +42,9 @@ if(additionalMinutes > 1 || additionalText > 1)
 }
 else {
     print(`Total cost is 0.00`);}
+asd
+asd
+asd
 
   
    
